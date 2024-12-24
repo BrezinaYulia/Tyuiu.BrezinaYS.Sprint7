@@ -26,5 +26,10 @@ namespace Tyuiu.BrezinaYS.Sprint7.Project.V15
         {
             this.Close();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
